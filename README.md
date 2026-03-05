@@ -23,5 +23,3 @@ This project analyzes e-commerce sales data using Power BI to identify revenue t
 • Data Modeling
 • DAX Measures
 
-## Dashboard Preview
-(Insert dashboard screenshot here)
